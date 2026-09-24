@@ -1,11 +1,12 @@
 # 🎬 MediaPlayerAI (v1.1.1)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-v1.1.1-blue.svg" alt="Status">
+  <img src="https://img.shields.io/badge/Platform-Windows%2064--bit-0078D6.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/License-Proprietary-red.svg" alt="Source">
+</p>
 
-
----<img width="1407" height="859" alt="لقطة شاشة 2026-09-24 131854" src="https://github.com/user-attachments/assets/c15a51ad-44ea-4941-a466-90884bdaf864" />
-<img width="1494" height="870" alt="لقطة شاشة 2026-09-24 131839" src="https://github.com/user-attachments/assets/5825f606-eb09-4155-9b5d-734849097c3c" />
-<img width="1213" height="796" alt="لقطة شاشة 2026-09-24 131826" src="https://github.com/user-attachments/assets/cf9dfc16-880f-45a2-9526-09fb760ac8fd" />
-
+---
 
 ## 🚀 نبذة عن البرنامج (About)
 **MediaPlayerAI** هو مشغل وسائط متطور ومغلق المصدر لأنظمة ويندوز، يدمج بين تشغيل الصوتيات والمرئيات الاحترافي وقدرات **الذكاء الاصطناعي الفائقة**، مما يمنحك تجربة ذكية وسريعة لإدارة وتشغيل ملفاتك بجودة عالية واستجابة مذهلة.
@@ -19,19 +20,19 @@
 ### 🔹 الواجهة الرئيسية ومشغل الوسائط
 تصميم عصري داكن مريح للعين، متوافق مع واجهات ويندوز الحديثة ويحتوي على قوائم تشغيل ذكية مدمجة.
 <p align="center">
-  <img src="./screenshots/131826 24-09-2026 لقطة شاشة.png" alt="Main Interface" width="850">
+  <img src="https://github.com/user-attachments/assets/cf9dfc16-880f-45a2-9526-09fb760ac8fd" alt="Main Interface" width="850">
 </p>
 
 ### 🔹 مساعد الذكاء الاصطناعي (Groq Integration)
 يدعم البرنامج الربط المباشر والآمن عبر مفتاح الـ API الخاص بخدمة **Groq** لتوفير ميزات ذكية مثل المساعد الشخصي وخاصية **تفريغ الصوت إلى نصوص (Transcription)** بشكل مجاني وسريع جداً.
 <p align="center">
-  <img src="./screenshots/131839 24-09-2026 لقطة شاشة.png" alt="AI Settings" width="850">
+  <img src="https://github.com/user-attachments/assets/5825f606-eb09-4155-9b5d-734849097c3c" alt="AI Settings" width="850">
 </p>
 
 ### 🔹 نظام التحديثات المدمج والتلقائي
 يحتوي البرنامج على ميزة فحص التحديثات بشكل فوري، حيث تظهر لك تفاصيل وملاحظات الإصدار الجديد مع إمكانية التحديث بضغطة زر واحدة.
 <p align="center">
-  <img src="./screenshots/131854 24-09-2026 لقطة شاشة.png" alt="Updater System" width="850">
+  <img src="https://github.com/user-attachments/assets/c15a51ad-44ea-4941-a466-90884bdaf864" alt="Updater System" width="850">
 </p>
 
 ---
@@ -41,7 +42,7 @@
 * 🔒 **أمان وحماية البيانات (DPAPI):** يتم تشفير مفاتيح الـ API محلياً في جهازك باستخدام خاصية الحماية من ويندوز، ولا يتم تخزينها كنصوص صريحة أو إرسالها لأي جهة خارجية.
 * 🔄 **نظام تحديثات مدمج:** تتبع التحديثات الرسمية وتحميلها مباشرة من داخل التطبيق دون عناء.
 * ⚡ **نسخة مستقلة (Portable):** يعمل مباشرة فور تحميله على أنظمة **Windows 64-bit** دون الحاجة لتثبيت حزم أو ملفات .NET خارجية.
-* 📦 **ملف تنفيفيذ واحد:** مدمج بالكامل في ملف `MediaPlayerAI.exe` منفرد لسهولة النقل والتشغيل الفوري.
+* 📦 **ملف تنفيذي واحد:** مدمج بالكامل في ملف `MediaPlayerAI.exe` منفرد لسهولة النقل والتشغيل الفوري.
 * 🛠️ **أداء مستقر:** تم حل جميع المشاكل والتعليقات التقنية التي رُصدت في نسخة البيتا لضمان تشغيل آمن وسلس.
 
 ---
