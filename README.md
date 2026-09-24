@@ -1,12 +1,11 @@
 # 🎬 MediaPlayerAI (v1.1.1)
 
-<p align="center">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Platform">
-  <img src="https://shields.io" alt="Source">
-</p>
 
----
+
+---<img width="1407" height="859" alt="لقطة شاشة 2026-09-24 131854" src="https://github.com/user-attachments/assets/c15a51ad-44ea-4941-a466-90884bdaf864" />
+<img width="1494" height="870" alt="لقطة شاشة 2026-09-24 131839" src="https://github.com/user-attachments/assets/5825f606-eb09-4155-9b5d-734849097c3c" />
+<img width="1213" height="796" alt="لقطة شاشة 2026-09-24 131826" src="https://github.com/user-attachments/assets/cf9dfc16-880f-45a2-9526-09fb760ac8fd" />
+
 
 ## 🚀 نبذة عن البرنامج (About)
 **MediaPlayerAI** هو مشغل وسائط متطور ومغلق المصدر لأنظمة ويندوز، يدمج بين تشغيل الصوتيات والمرئيات الاحترافي وقدرات **الذكاء الاصطناعي الفائقة**، مما يمنحك تجربة ذكية وسريعة لإدارة وتشغيل ملفاتك بجودة عالية واستجابة مذهلة.
