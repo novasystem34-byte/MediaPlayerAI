@@ -21,19 +21,19 @@
 ### 🔹 الواجهة الرئيسية ومشغل الوسائط
 تصميم عصري داكن مريح للعين، متوافق مع واجهات ويندوز الحديثة ويحتوي على قوائم تشغيل ذكية مدمجة.
 <p align="center">
-  <img src="ضع_رابط_الصورة_الأولى_هنا" alt="Main Interface" width="850">
+  <img src="https://squarespace-cdn.com" alt="Main Interface" width="850">
 </p>
 
 ### 🔹 مساعد الذكاء الاصطناعي (Groq Integration)
 يدعم البرنامج الربط المباشر والآمن عبر مفتاح الـ API الخاص بخدمة **Groq** لتوفير ميزات ذكية مثل المساعد الشخصي وخاصية **تفريغ الصوت إلى نصوص (Transcription)** بشكل مجاني وسريع جداً.
 <p align="center">
-  <img src="ضع_رابط_الصورة_الثانية_هنا" alt="AI Settings" width="850">
+  <img src="https://squarespace-cdn.com" alt="AI Settings" width="850">
 </p>
 
-### 🔹 نظام التحديثات التلقائي المدمج
+### 🔹 نظام Tحديثات المدمج والتلقائي
 يحتوي البرنامج على ميزة فحص التحديثات بشكل فوري، حيث تظهر لك تفاصيل وملاحظات الإصدار الجديد مع إمكانية التحديث بضغطة زر واحدة.
 <p align="center">
-  <img src="ضع_رابط_الصورة_الثالثة_هنا" alt="Updater System" width="850">
+  <img src="https://squarespace-cdn.com" alt="Updater System" width="850">
 </p>
 
 ---
