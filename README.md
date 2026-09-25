@@ -1,9 +1,9 @@
 # 🎬 MediaPlayerAI (v1.1.1)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal)](https://paypal.me/Alaaabushamaa)
 <p align="center">
   <img src="https://img.shields.io/badge/Version-v1.1.1-blue.svg" alt="Status">
   <img src="https://img.shields.io/badge/Platform-Windows%2064--bit-0078D6.svg" alt="Platform">
   <img src="https://img.shields.io/badge/License-Proprietary-red.svg" alt="Source">
+  [![Donate](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal)](https://paypal.me/Alaaabushamaa)
 </p>
 
 ---
